@@ -11,7 +11,7 @@ def normalize_phone(phone_number):
 
     return cleaned_number
 
-# Приклади використання
+# Приклади для перевірки
 raw_numbers = [
     "067\t123 4567",
     "(095) 234-5678\n",
